@@ -1,0 +1,11 @@
+{
+	"appId": "map.example.com",
+	"appName": "Map Example",
+	"bundledWebRuntime": true,
+	"webDir": "www/dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
